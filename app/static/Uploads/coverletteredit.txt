@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am excited to apply for the MERN Full Stack Developer at Celestial. With hands-on experience in blockchain development and full-stack web applications using React, MongoDB, Solidity, and smart contracts, I am confident in my ability to contribute to your team’s success.Throughout my career, I have demonstrated a deep understanding of decentralized technologies and full-stack development. In my current role as a Full Stack Blockchain Developer at BubbleBitX, I have successfully designed and implemented a responsive, multi-page web platform that simplifies user interaction with decentralized systems. Using technologies like React for the front-end, MongoDB for back-end data management, and Solidity for smart contract deployment, I have developed scalable solutions that prioritize user experience, security, and transparency.
+
+Some highlights of my work include:
+
+BubbleBitX: A full-stack website which offers responsive design and dynamic functionality, providing businesses with feature-rich services focused on trust, achievement, and leadership.
+
+Sponsor-Me: A decentralized donation platform, facilitating secure blockchain-based transactions with transparency and real-time data visualization.
+
+MyWorkoutDiary: A MERN stack web application designed to assist users in managing their workout routines, built for optimal user engagement and efficiency.
+
+I am excited about the opportunity to contribute to Celestial and help drive forward its vision for cutting-edge technology and product development. I welcome the chance to discuss how my skills and experiences align with your needs in further detail. Thank you for considering my application. I look forward to the opportunity to contribute to your team.
+
+Sincerely,
+Prathmesh Aghao
+prathmeshaghao@gmail.com | +91 9137969493
